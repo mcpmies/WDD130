@@ -1,0 +1,20 @@
+#click-me-button {
+    background-color: lightseagreen;
+    border: solid 1px black;
+    color: black;
+    font-size: 30px;
+    padding: 20px 30px;
+    cursor: pointer;
+    box-shadow: -1px 2px 11px -1px(0, 0, 0, .2);
+    border-radius: 5px;
+}
+
+#click-me-button:hover {
+    background-color: rgb(37, 204, 196);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: vertical;
+}
