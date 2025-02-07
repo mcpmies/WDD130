@@ -1,0 +1,15 @@
+body {
+    background-color: dimgrey;
+}
+
+.img {
+    border-radius: 50%;
+    border-style: solid;
+    border-color:rgb(70, 66, 66);
+    border-width: 10px;
+    width: 15%;
+    height: 15%;
+    margin: 5%;
+}
+
+
