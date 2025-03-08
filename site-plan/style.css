@@ -34,7 +34,7 @@ nav a {
 
 nav a:hover {
     background-color: #FEC872;
-    color: #0F4757;
+    color: #1C829C;
 }
 
 #hero {
@@ -270,4 +270,37 @@ main section {
     footer {
         margin-top: 25px;
     }
+}
+
+/* Page two (Schedule) CSS */
+
+#page-two-main {
+    color: #0F4757;
+    text-align: center;
+}
+
+.trip-options {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.title {
+    font-family: "Permanent Marker", Arial, sans-serif;
+}
+
+#page-description {
+    margin-bottom: 100px;
+}
+
+.place-img {
+    width: 80%;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.description {
+    margin-bottom: 0px;
+}
+
+.dates {
+    margin-top: 0px;
 }
