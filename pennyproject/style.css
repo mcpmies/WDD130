@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #A0BDAD;
+    color: #323F3A;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#logo {
+    width: 75px;
+    margin: 10px;
+    margin-right: 100px;
+}
