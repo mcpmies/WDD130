@@ -15,3 +15,17 @@ header {
     margin: 10px;
     margin-right: 100px;
 }
+
+#banner-img {
+    width: 100%;
+}
+
+#feature-img {
+    width: 400px;
+}
+
+
+
+.social-icon {
+    width: 50px;
+}
